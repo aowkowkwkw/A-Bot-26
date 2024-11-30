@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "jid": "62895384524799@s.whatsapp.net",
+      "totalMessages": 8
+    },
+    {
+      "jid": "6281617303411@s.whatsapp.net",
+      "totalMessages": 7
+    },
+    {
+      "jid": "6289625149195@s.whatsapp.net",
+      "totalMessages": 5
+    },
+    {
+      "jid": "6283128431768@s.whatsapp.net",
+      "totalMessages": 3
+    },
+    {
+      "jid": "62895320642224@s.whatsapp.net",
+      "totalMessages": 2
+    },
+    {
+      "jid": "6282112476433@s.whatsapp.net",
+      "totalMessages": 2
+    }
+  ],
+  "totalChat": 51,
+  "lastResetTime": 1713616250293
+}
